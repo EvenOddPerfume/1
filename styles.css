@@ -1,0 +1,24 @@
+body {
+  font-family: Arial;
+  margin: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    float: left
+}
+
+a:link, a:visited {display: block;
+        width: 217px;
+        background-color: #7a73af;
+        color: #ffffff;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 10px}
+        a:hover, a:active {background-color: #605590;
